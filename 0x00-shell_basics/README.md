@@ -1,1 +1,1 @@
-caps lock
+SHELL_BASICS
