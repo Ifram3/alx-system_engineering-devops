@@ -1,1 +1,1 @@
-my readme
+SHELL_PERMISSIONS
